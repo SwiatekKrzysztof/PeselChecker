@@ -1,4 +1,4 @@
-package pesel-checker;
+package peselChecker;
 
 import static org.junit.Assert.assertTrue;
 

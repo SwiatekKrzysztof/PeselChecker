@@ -15,7 +15,6 @@ public class PeselService {
         for(String s : list){
             Pesel pesel = translatePesel(s);
             pesels.add(pesel);
-            System.out.println(pesel);
         }
         return pesels;
     }
